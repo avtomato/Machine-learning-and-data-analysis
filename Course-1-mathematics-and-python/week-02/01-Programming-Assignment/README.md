@@ -58,13 +58,13 @@
 
 *f(x) = sin(x / 5) * exp(x / 10) + 5 * exp(-x / 2)*
 
-![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/YzsaOcqaEeW9HA7NOZMxaw_3d529582665934cff77bbcf55a28e43c_image01.png?expiry=1499731200000&hmac=yZHkKsjhWC1osF9_JG91-4pklJ7D26nw8KsiY_8s3_g)
+![](https://github.com/avtomato/Machine-learning-and-data-analysis/blob/master/img/src/YzsaOcqaEeW9HA7NOZMxaw_3d529582665934cff77bbcf55a28e43c_image01.png)
 
 Она может описывать, например, зависимость оценок, которые выставляют определенному сорту вина эксперты, в зависимости от возраста этого вина. По сути, задача машинного обучения состоит в том, чтобы приблизить сложную зависимость с помощью функции из определенного семейства. В этом задании мы будем приближать указанную функцию с помощью многочленов.
 
 Как известно, многочлен степени *n* (то есть *w_0 + w_1 x + w_2 x^2 + ... + w_n x^n*) однозначно определяется любыми *n + 1* различными точками, через которые он проходит. Это значит, что его коэффициенты *w_0, ... w_n* можно определить из следующей системы линейных уравнений:
 
-![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/SLHK79HnEeWvxwo5BbZD3w_ed4fb0020ad6ccb0b2e2ea50468b7789_lineqn.png?expiry=1499731200000&hmac=R7qIolfDlUwnnhJbgLVXrGiHIv9Rk4F5Ksv13TSMJ4A)
+![](https://github.com/avtomato/Machine-learning-and-data-analysis/blob/master/img/src/SLHK79HnEeWvxwo5BbZD3w_ed4fb0020ad6ccb0b2e2ea50468b7789_lineqn.png)
 
 где через *x_1, ..., x_n, x_{n+1}* обозначены точки, через которые проходит многочлен, а через *f(x_1), ..., f(x_n), f(x_{n+1})* — значения, которые он должен принимать в этих точках.
 
@@ -76,4 +76,5 @@
 4. Запишите полученные числа в файл, разделив пробелами. Обратите внимание, что файл должен состоять из одной строки, в конце которой не должно быть переноса. Пример файла с решением вы можете найти в конце задания *(submission-2.txt)*.
 
 [submission-2.txt]()
+
 [submission-1.txt]()
