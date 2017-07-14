@@ -6,8 +6,8 @@
 
 Задание в ipython *notebook*:
 
-[MetricsPA.ipynb]()
+[MetricsPA.ipynb](https://github.com/avtomato/Machine-learning-and-data-analysis/blob/master/Course-2-supervised-learning/week-02/02-Programming-Assignment/MetricsPA.ipynb)
 
 *html*-версия:
 
-[MetricsPA.html]()
+[MetricsPA.html](https://github.com/avtomato/Machine-learning-and-data-analysis/blob/master/Course-2-supervised-learning/week-02/02-Programming-Assignment/MetricsPA.html)

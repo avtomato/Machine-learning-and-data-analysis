@@ -8,17 +8,17 @@
 
 Для выполнения задания скачайте ipython *notebook*:
 
-[OverfittingTask.zip]()
+[OverfittingTask.zip](https://github.com/avtomato/Machine-learning-and-data-analysis/blob/master/Course-2-supervised-learning/week-02/01-Peer-graded-Assignment/OverfittingTask.ipynb)
 
 *html*-версия:
 
-[OverfittingTask.html]()
+[OverfittingTask.html](https://github.com/avtomato/Machine-learning-and-data-analysis/blob/master/Course-2-supervised-learning/week-02/01-Peer-graded-Assignment/OverfittingTask.html)
 
 Нужно написать код и кратко ответить на вопросы. Подробные инструкции даны в начале *notebook*.
 
 Данные из репозитория UCI --- информация об автоматизированном прокате велосипедов:
 
-[bikes_rent.csv]()
+[bikes_rent.csv](https://github.com/avtomato/Machine-learning-and-data-analysis/blob/master/Course-2-supervised-learning/week-02/01-Peer-graded-Assignment/bikes_rent.csv)
 
 
 **Важно!** На *Coursera* есть баг со скачиванием файлов *Ipython Notebook*.Поэтому если вы не хотите получить от неразобравшихся сокурсников оценку "0", которые в задании *Peer Review* не могут проверить ваш ноутбук - крайне рекомендуется прикреплять не сам файл ноутбука, но архив с ним или ссылку на ноутбук выложенный на Яндекс.Диск или подобном сервисе.Если вы проверяете работу и у вас при открытии ругается на ошибку *"Error loading notebook", "Unreadable Notebook"*, то не спешите размахивать шашкой, а попробуйте один из вариантов от студентов которые через это прошли:1. Можно просто скачать нужный ноутбук, кликнув правой кнопкой мыши на ссылку и выбрав "Сохранить ссылку как..."2. Щелкаем правой кнопкой, нажимаем "копировать ссылку", открываем http://nbviewer.jupyter.org, вставляем ранее скопированную ссылку, жмем *GO*!
