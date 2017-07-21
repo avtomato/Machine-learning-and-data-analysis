@@ -8,8 +8,8 @@
 
 Текст задания обновлён *02.05.2016*. Обратите внимание на изменения в структуре файлов с ответами.
 
-[data.csv]()
+[data.csv](https://github.com/avtomato/Machine-learning-and-data-analysis/blob/master/Course-2-supervised-learning/week-03/01-Programming-Assignment/data.csv)
 
-[Preprocessing_LR.zip]()
+[Preprocessing_LR.zip](https://github.com/avtomato/Machine-learning-and-data-analysis/blob/master/Course-2-supervised-learning/week-03/01-Programming-Assignment/Preprocessing_LR.ipynb)
 
-[Preprocessing_LR.html]()
+[Preprocessing_LR.html](https://github.com/avtomato/Machine-learning-and-data-analysis/blob/master/Course-2-supervised-learning/week-03/01-Programming-Assignment/Preprocessing_LR.html)
