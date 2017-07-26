@@ -20,7 +20,6 @@
 В процессе реализации обучения вам потребуется функция, которая будет вычислять прогноз построенной на данный момент композиции деревьев на выборке *X*:
 
 
-
 ```python
 def gbm_predict(X):
     return [sum([coeff * algo.predict([x])[0] for algo, coeff in zip(base_algorithms_list, coefficients_list)]) for x in X]
@@ -51,4 +50,4 @@ def gbm_predict(X):
 
 **IPython-notebook с заданием:**
 
-[grad_boosting.zip]()
+[grad_boosting.zip](https://github.com/avtomato/Machine-learning-and-data-analysis/blob/master/Course-2-supervised-learning/week-04/02-Programming-Assignment/grad_boosting.ipynb)
